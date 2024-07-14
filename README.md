@@ -1,17 +1,26 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
+
 <h1 align="center">Hi 👋, I'm Sadique Ahmed</h1>
-<h3 align="center">A passionate fullstack web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="/" >
+<h3 align="center">A passionate full-stack web developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqueahmed&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqueahmed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadiqueahmed" alt="sadiqueahmed" /></a> </p>
 
+- 🔭 I’m currently working on [Tourist places of Assam](https://github.com/Sadiqueahmed/Tourist-Places-of-Assam.git)
+
 - 🌱 I’m currently learning **Java , React Native**
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **sadiqueahmed40@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sadique-ahmed-b2039524b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sadique-ahmed-b2039524b/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sadique ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sadique ahmed" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_saaadique__?igsh=cgxzcxnhmzfoz3dt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_saaadique__?igsh=cgxzcxnhmzfoz3dt" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@everythingwithsadique6702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@everythingwithsadique6702" height="30" width="40" /></a>
 </p>
 

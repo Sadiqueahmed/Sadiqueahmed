@@ -31,3 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadiqueahmed&show_icons=true&locale=en" alt="sadiqueahmed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqueahmed&" alt="sadiqueahmed" /></p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Sadique"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sadique Ahmed" /></a></p><br><br>"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sadique Ahmed" /></a></p><br><br>

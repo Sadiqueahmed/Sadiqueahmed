@@ -2,6 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Sadique Ahmed</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
+<h3>About me :</h3>
+<p>Hello there! 🌟
+I'm a curious soul with a passion for learning, exploring, and connecting with people. I love diving into new projects and challenges, whether it’s solving a tricky problem or creating something from scratch. I believe in continuous growth, and I’m always excited about the journey as much as the destination.
+
+When I'm not working, you’ll find me indulging in my hobbies, getting lost in a good book, or discovering new places and experiences. I’m a firm believer that life’s greatest joys come from the little moments of wonder and connection.
+
+Let’s create, collaborate, and make the world a bit brighter—together!</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqueahmed&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqueahmed" /> </p>

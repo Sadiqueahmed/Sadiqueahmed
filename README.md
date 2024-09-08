@@ -71,7 +71,7 @@ Let’s create, collaborate, and make the world a bit brighter—together!</p>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td></tr></table> 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiqueahmed&show_icons=true&locale=en&layout=compact" alt="sadiqueahmed" /></p>

@@ -73,7 +73,7 @@ Let’s create, collaborate, and make the world a bit brighter—together!</p>
 
 </td><td valign="top" width="33%">
 
-</td></tr></table>  
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiqueahmed&show_icons=true&locale=en&layout=compact" alt="sadiqueahmed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadiqueahmed&show_icons=true&locale=en" alt="sadiqueahmed" /></p>

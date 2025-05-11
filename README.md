@@ -16,7 +16,7 @@ Let’s create, collaborate, and make the world a bit brighter—together!</p>
 
 - 🔭 I’m currently working on [Banking](https://github.com/Sadiqueahmed/Banking)
 
-- 🌱 I’m currently learning **Java , React Native**
+- 🌱 I’m currently learning **SpringBoot , React Native**
 
 - 💬 Ask me about **Java**
 

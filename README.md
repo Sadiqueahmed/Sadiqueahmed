@@ -14,7 +14,7 @@ Let’s create, collaborate, and make the world a bit brighter—together!</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqueahmed&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqueahmed" /> </p>
 
 
-- 🔭 I’m currently working on [Banking](https://github.com/Sadiqueahmed/IndicSignAI)
+- 🔭 I’m currently working on [IndicSignAI](https://github.com/Sadiqueahmed/IndicSignAI)
 
 - 🌱 I’m currently learning **SpringBoot , React Native**
 

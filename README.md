@@ -116,8 +116,8 @@ Let’s create, collaborate, and make the world a bit brighter—together!</p>
 
 <p>
   <a href="https://topmate.io/sadique_ahmed" target="_blank">
-    <img src="https://topmate.io/assets/img/logo.png" 
-         height="50" width="210" alt="Support on Topmate" />
+    <img src="https://topmate.io/favicon.svg" 
+         height="50" width="50" alt="Support on Topmate" />
   </a>
 </p>
 

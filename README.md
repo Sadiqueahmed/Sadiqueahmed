@@ -105,5 +105,19 @@ Let’s create, collaborate, and make the world a bit brighter—together!</p>
 </a>  
 </div>  
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Sadique"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sadique Ahmed" /></a></p><br><br>
+<h3>Support Me:</h3>
+
+<p>
+  <a href="https://www.buymeacoffee.com/Sadique" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+         height="50" width="210" alt="Support on Buy Me a Coffee" />
+  </a>
+</p>
+
+<p>
+  <a href="https://topmate.io/sadique_ahmed" target="_blank">
+    <img src="https://topmate.io/assets/img/logo.png" 
+         height="50" width="210" alt="Support on Topmate" />
+  </a>
+</p>
+

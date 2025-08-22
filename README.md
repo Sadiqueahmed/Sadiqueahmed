@@ -9,6 +9,14 @@ I'm a curious soul with a passion for learning, exploring, and connecting with p
 When I'm not working, you’ll find me indulging in my hobbies, getting lost in a good book, or discovering new places and experiences. I’m a firm believer that life’s greatest joys come from the little moments of wonder and connection.
 
 Let’s create, collaborate, and make the world a bit brighter—together!</p>
+<h3>Check out my works</h3>
+<p>
+  <a href="https://topmate.io/sadique_ahmed" target="_blank">
+    <img src="https://topmate.io/favicon.svg" height="40" width="40" alt="Topmate Profile" />
+    <strong>See my interesting works on Topmate</strong>
+  </a>
+</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqueahmed&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqueahmed" /> </p>

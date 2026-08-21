@@ -1,11 +1,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1 align="center">Hi, I'm Sadique Ahmed</h1>
-<h3 align="center">Full-Stack Developer | India</h3>
+<h1 align="center">Hi, I'm Sadique Ahmed 👋</h1>
+<h3 align="center">Full-Stack Developer building practical, real-world software</h3>
 
 ### About Me
 
-I'm a full-stack developer with a strong interest in building practical, well-engineered software. I enjoy solving technical problems, learning new technologies, and collaborating on projects that create real impact. I'm currently focused on expanding my skills in backend frameworks .
+I'm a full-stack developer who enjoys turning ideas into working products — from the interface a user sees down to the systems running behind it. I like tackling hard technical problems, picking up new tools quickly, and shipping software that actually solves something. Right now, I'm expanding into backend frameworks and mobile development while working on projects at the intersection of AI and accessibility.
 
 <p>
   <a href="https://topmate.io/sadique_ahmed" target="_blank">
@@ -16,18 +16,18 @@ I'm a full-stack developer with a strong interest in building practical, well-en
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqueahmed&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqueahmed" /> </p>
 
-- 🔭 **Currently working on:** [IndicSignAI](https://github.com/Sadiqueahmed/IndicSignAI)
-- 🌱 **Currently learning:** Spring Boot, React Native
-- 💬 **Ask me about:** Java
-- 📫 **Reach me at:** sadiqueahmed40@gmail.com
+- 🔭 **Building:** [IndicSignAI](https://github.com/Sadiqueahmed/IndicSignAI)
+- 🌱 **Leveling up in:** Spring Boot & React Native
+- 💬 **Happy to talk about:** Java, backend architecture, or full-stack projects
+- 📫 **Let's connect:** sadiqueahmed40@gmail.com
 
 ---
 
-## Technical Skills
+## What I Work With
 
 **Frontend:** React, JavaScript, HTML5, CSS3
 
-**Backend:** Java, SpringBoot, Node.js, Python, PHP, C++
+**Backend:** Java, Spring, Node.js, Python, PHP, C++
 
 **Databases:** MySQL, MongoDB, PostgreSQL
 
@@ -35,7 +35,7 @@ I'm a full-stack developer with a strong interest in building practical, well-en
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiqueahmed&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165" />

@@ -37,10 +37,10 @@ I'm a full-stack developer with a strong interest in building practical, well-en
 
 ## GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiqueahmed&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165" />
   <img src="https://github-readme-stats.vercel.app/api?username=sadiqueahmed&show_icons=true&locale=en" alt="GitHub Stats" height="165" />
-</p>
+</p> -->
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqueahmed&" alt="GitHub Streak" />

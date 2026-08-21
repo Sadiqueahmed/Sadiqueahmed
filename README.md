@@ -5,7 +5,7 @@
 
 ### About Me
 
-I'm a full-stack developer with a strong interest in building practical, well-engineered software. I enjoy solving technical problems, learning new technologies, and collaborating on projects that create real impact. I'm currently focused on expanding my skills in backend frameworks and mobile development.
+I'm a full-stack developer with a strong interest in building practical, well-engineered software. I enjoy solving technical problems, learning new technologies, and collaborating on projects that create real impact. I'm currently focused on expanding my skills in backend frameworks .
 
 <p>
   <a href="https://topmate.io/sadique_ahmed" target="_blank">

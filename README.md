@@ -1,7 +1,19 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1 align="center">Hi, I'm Sadique Ahmed 👋</h1>
-<h3 align="center">Full-Stack Developer building practical, real-world software</h3>
+<h1 align="center">Sadique Ahmed</h1>
+<h3 align="center">Full-Stack Developer | Building software at the intersection of AI & Accessibility</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sadique-ahmed-b2039524b" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sadiqueahmed40@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://topmate.io/sadique_ahmed" target="_blank">
+    <img src="https://img.shields.io/badge/Topmate-1D4ED8?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sadiqueahmed&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqueahmed" />
@@ -9,21 +21,26 @@
 
 ---
 
-### About Me
+### 👋 About Me
 
-I'm a full-stack developer who enjoys turning ideas into working products — from the interface a user sees down to the systems running behind it. I like tackling hard technical problems, picking up new tools quickly, and shipping software that actually solves something. Right now, I'm expanding into backend frameworks and mobile development while working on projects at the intersection of AI and accessibility.
+I'm a full-stack developer who builds complete products — from the interface a user touches to the systems running behind it. I move fast across the stack, pick up new frameworks quickly, and care about shipping software that solves real problems rather than just working in a demo.
 
-- 🔭 **Building:** [IndicSignAI](https://github.com/Sadiqueahmed/IndicSignAI)
-- 🌱 **Leveling up in:** Spring Boot & React Native
-- 💬 **Happy to talk about:** Java, backend architecture, or full-stack projects
-- 📫 **Let's connect:** sadiqueahmed40@gmail.com
+Currently, I'm going deeper into **backend architecture** and **mobile development**, while building **[IndicSignAI](https://github.com/Sadiqueahmed/IndicSignAI)** — a project using AI to make communication more accessible.
 
-<p>
-  <a href="https://topmate.io/sadique_ahmed" target="_blank">
-    <img src="https://topmate.io/favicon.svg" height="20" width="20" alt="Topmate" />
-    <strong> View my work on Topmate</strong>
-  </a>
-</p>
+- 🔭 **Currently building:** [IndicSignAI](https://github.com/Sadiqueahmed/IndicSignAI) — AI-powered sign language interpretation
+- 🌱 **Currently leveling up in:** Spring Boot & React Native
+- 🎯 **Focus area:** Full-stack systems where AI meets accessibility
+- 💬 **Ask me about:** Java, backend architecture, or full-stack system design
+- 📫 **Reach me at:** sadiqueahmed40@gmail.com
+
+---
+
+## 🚀 Featured Project
+
+### [IndicSignAI](https://github.com/Sadiqueahmed/IndicSignAI)
+An AI-driven system aimed at bridging communication gaps through sign language recognition/translation — combining computer vision and full-stack engineering to make accessibility tools that actually work in practice.
+
+> ⭐ If this looks interesting, a star on the repo goes a long way — [check it out here](https://github.com/Sadiqueahmed/IndicSignAI).
 
 ---
 
@@ -63,17 +80,19 @@ I'm a full-stack developer who enjoys turning ideas into working products — fr
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-<!--
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadiqueahmed&show_icons=true&locale=en&theme=default" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiqueahmed&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sadiqueahmed&show_icons=true&locale=en" alt="GitHub Stats" height="165" />
 </p>
--->
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqueahmed&" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=sadiqueahmed&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -114,3 +133,5 @@ I'm a full-stack developer who enjoys turning ideas into working products — fr
     <img src="https://topmate.io/favicon.svg" height="45" width="45" alt="Support on Topmate" />
   </a>
 </p>
+
+<p align="center"><i>Thanks for stopping by — always open to interesting collaborations and conversations.</i></p>

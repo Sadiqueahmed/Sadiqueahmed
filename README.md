@@ -27,7 +27,7 @@ I'm a full-stack developer who enjoys turning ideas into working products — fr
 
 **Frontend:** React, JavaScript, HTML5, CSS3
 
-**Backend:** Java, Spring, Node.js, Python, PHP, C++
+**Backend:** Java, Spring Framework, Node.js, Python, C++
 
 **Databases:** MySQL, MongoDB, PostgreSQL
 

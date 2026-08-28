@@ -29,7 +29,7 @@ I'm a full-stack developer who enjoys turning ideas into working products — fr
 
 **Backend:** Java, Spring Framework, Node.js, Python, C++
 
-**Databases:** MySQL, MongoDB, PostgreSQL
+**Databases:** MySQL, MongoDB,Supabase,Firebase, PostgreSQL
 
 **Tools & DevOps:** Git, Docker
 

@@ -102,7 +102,7 @@ An AI-driven system aimed at bridging communication gaps through sign language r
 
 ## 🧩 LeetCode Stats
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://leetcard.jacoblin.cool/Sadiqueahmed01?theme=light&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
@@ -110,7 +110,7 @@ An AI-driven system aimed at bridging communication gaps through sign language r
   <a href="https://leetcode.com/u/Sadiqueahmed01/" target="_blank">
     <img src="https://img.shields.io/badge/View%20Full%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-</p>
+</p> -->
 
 ---
 

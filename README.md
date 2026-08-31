@@ -13,6 +13,9 @@
   <a href="https://topmate.io/sadique_ahmed" target="_blank">
     <img src="https://img.shields.io/badge/Topmate-1D4ED8?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/Sadiqueahmed01/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 <p align="center">
@@ -97,6 +100,20 @@ An AI-driven system aimed at bridging communication gaps through sign language r
 
 ---
 
+## 🧩 LeetCode Stats
+
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/Sadiqueahmed01?theme=light&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+<p align="left">
+  <a href="https://leetcode.com/u/Sadiqueahmed01/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Full%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="left">
@@ -111,6 +128,9 @@ An AI-driven system aimed at bridging communication gaps through sign language r
   </a>
   <a href="https://www.kaggle.com/sadiqueahmed01" target="_blank">
     <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" />
+  </a>
+  <a href="https://leetcode.com/u/Sadiqueahmed01/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
   </a>
   <a href="https://www.facebook.com/sadique.ahmed.3154" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />

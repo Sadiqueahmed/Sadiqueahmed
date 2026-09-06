@@ -28,11 +28,11 @@
 
 I'm a full-stack developer who builds complete products — from the interface a user touches to the systems running behind it. I move fast across the stack, pick up new frameworks quickly, and care about shipping software that solves real problems rather than just working in a demo.
 
-Currently, I'm going deeper into **backend architecture** and **mobile development**, while building **[IndicSignAI](https://github.com/Sadiqueahmed/IndicSignAI)** — a project using AI to make communication more accessible.
+Currently, I'm going deeper into **backend architecture** and **mobile development**, while building **[PRAHARI](https://github.com/Sadiqueahmed/PRAHARI)**.
 
-- 🔭 **Currently building:** [IndicSignAI](https://github.com/Sadiqueahmed/IndicSignAI) — AI-powered sign language interpretation
+- 🔭 **Currently building:** [PRAHARI](https://github.com/Sadiqueahmed/PRAHARI) 
 - 🌱 **Currently leveling up in:** Spring Boot & React Native
-- 🎯 **Focus area:** Full-stack systems where AI meets accessibility
+- 🎯 **Focus area:** Full-stack systems and intuitive application architecture
 - 💬 **Ask me about:** Java, backend architecture, or full-stack system design
 - 📫 **Reach me at:** sadiqueahmed40@gmail.com
 
@@ -40,10 +40,10 @@ Currently, I'm going deeper into **backend architecture** and **mobile developme
 
 ## 🚀 Featured Project
 
-### [IndicSignAI](https://github.com/Sadiqueahmed/IndicSignAI)
-An AI-driven system aimed at bridging communication gaps through sign language recognition/translation — combining computer vision and full-stack engineering to make accessibility tools that actually work in practice.
+### [NexusCRM](https://github.com/Sadiqueahmed/NexusCRM)
+A comprehensive Customer Relationship Management (CRM) system designed to streamline business operations. Built with a focus on robust backend architecture and an intuitive interface, it enhances user productivity, data management, and operational efficiency in a real-world environment.
 
-> ⭐ If this looks interesting, a star on the repo goes a long way — [check it out here](https://github.com/Sadiqueahmed/IndicSignAI).
+> ⭐ If this looks interesting, a star on the repo goes a long way — [check it out here](https://github.com/Sadiqueahmed/NexusCRM).
 
 ---
 
@@ -101,16 +101,6 @@ An AI-driven system aimed at bridging communication gaps through sign language r
 ---
 
 ## 🧩 LeetCode Stats
-
-<!-- <p align="left">
-  <img src="https://leetcard.jacoblin.cool/Sadiqueahmed01?theme=light&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-<p align="left">
-  <a href="https://leetcode.com/u/Sadiqueahmed01/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Full%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p> -->
 
 ---
 

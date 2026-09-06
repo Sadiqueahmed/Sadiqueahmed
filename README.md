@@ -86,17 +86,9 @@ A comprehensive Customer Relationship Management (CRM) system designed to stream
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadiqueahmed&show_icons=true&locale=en&theme=default" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiqueahmed&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=sadiqueahmed&theme=default" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqueahmed&" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sadiqueahmed&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
 
 ---
 
